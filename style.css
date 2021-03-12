@@ -41,18 +41,17 @@ a{
   height: 40px;
 }
 
-nav{
-  float: right;
+.navbarlist{
+	float: right;
 }
-
-nav li{
+.navbarlist li{
 	display: inline-block;
 	margin-left: 70px;
 	padding-top: 23px;
 	position: relative;
 }
 
-nav a{
+.navbarlist a{
 	color: #444;
 	text-decoration: none;
 	text-transform: uppercase;
